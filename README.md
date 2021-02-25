@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/hikatebaker/hikatebaker.github.io/edit/main/README.md) to maintain and preview the content for my website in Markdown files. I'm learning as I go so bear with me.
 
 This link below is what I used to get me started.
+
 [Getting Started](https://www.youtube.com/watch?v=RaKX4A5EiQo&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY)
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
