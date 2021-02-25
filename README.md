@@ -1,6 +1,9 @@
 ## Ok, so we figured that out
 
 ```markdown
+
+Syntax highlighted code block
+
 If I type three``` and then type markdown with no spaces after it I can create a syntax highlighted code block.
 
 
@@ -8,14 +11,13 @@ Ok, but I can't forget the three``` at the end to enclose the highlighted area. 
 even just typing the three``` to explain myself has done something as well.  Can't escape it for some reason.
 ```
 
+
+
+# Let's try a new header now
+
 ### Markdown
 
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -30,7 +32,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
