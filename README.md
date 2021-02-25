@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Well, Hi Shad
 
-You can use the [editor on GitHub](https://github.com/hikatebaker/hikatebaker.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/hikatebaker/hikatebaker.github.io/edit/main/README.md) to maintain and preview the content for my website in Markdown files. I'm learning as I go so bear with me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This link below is what I used to get me started.
+[Getting Started](https://www.youtube.com/watch?v=RaKX4A5EiQo&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY)
+
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 ### Markdown
 
@@ -30,8 +33,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hikatebaker/hikatebaker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My Pages site will use the layout and styles from the Jekyll theme I have selected in my [repository settings](https://github.com/hikatebaker/hikatebaker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### So, What do you think, Shad?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It's a good starting point for learning I think!
