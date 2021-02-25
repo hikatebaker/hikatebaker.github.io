@@ -1,7 +1,7 @@
 ## Ok, so we figured that out
 
 ```markdown
-If type three``` and then type markdown with no spaces after it I can create a syntax highlighted code block.
+If I type three``` and then type markdown with no spaces after it I can create a syntax highlighted code block.
 
 
 Ok, but I can't forget the three``` at the end to enclose the highlighted area.  And it should be noted that 
